@@ -15,7 +15,7 @@ export const EVENT = {
   initials: "S & P",
 
   shloka: "॥ श्री गणेशाय नमः ॥",
-  blessingLine: "With Divine Blessings",
+  blessingLine: "With Divine Blessings Of The Almighty",
 
   dateLabel: "Friday, 27th November 2026",
   weekday: "Friday",
