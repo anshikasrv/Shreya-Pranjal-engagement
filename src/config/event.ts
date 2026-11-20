@@ -63,7 +63,7 @@ export const EVENT = {
 export const SITE = {
   title: "Shreya & Pranjal – Ring Ceremony Invitation",
   description:
-    "You are cordially invited to the Ring Ceremony of Shreya & Pranjal on 27th November 2026, Prayagraj",
+    "You are cordially invited to the Ring Ceremony of Shreya & Pranjal on 10th December 2026, Prayagraj",
   /**
    * PREVIEW IMAGE SLOT for WhatsApp / social shares.
    * Paste a full https:// URL to a 1200×630 image here (after publishing,
